@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034770613596",
+    "project_id": "voluta-digital-b79e3",
+    "storage_bucket": "voluta-digital-b79e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034770613596:android:2bb2ad2c1fa30a86566d99",
+        "android_client_info": {
+          "package_name": "com.example.voluta_digital_trf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034770613596-k2kjm6a1d1rmh5bqljohu8ttlqn0hms4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdxzY9-ApgAP-visiBaIG2ox1r1rmVqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034770613596-k2kjm6a1d1rmh5bqljohu8ttlqn0hms4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
